@@ -4,7 +4,7 @@
   "description": "Using jQuery, I developed an interactive resume application that reads all data from a JSON file and then dynamically modifies the DOM to display the information.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/liamkande/Interactive-Resume.git"
+    "url": "https://github.com/liamkande/interactive_Resume.git"
   },
   "author": "Liam Ansoumane Kande",
   "devDependencies": {
